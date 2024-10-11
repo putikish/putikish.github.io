@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://putikish.github.io/sitemap.html.gz
+Sitemap: https://putikish.github.io/app/sitemap.html.gz
+Sitemap: https://putikish.github.io/assets/sitemap.html.gz
+Sitemap: https://putikish.github.io/css/sitemap.html.gz
+Sitemap: https://putikish.github.io/includes/sitemap.html.gz
+Sitemap: https://putikish.github.io/item/sitemap.html.gz
+Sitemap: https://putikish.github.io/src/sitemap.html.gz
